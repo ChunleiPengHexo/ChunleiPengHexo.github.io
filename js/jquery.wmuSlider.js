@@ -101,7 +101,7 @@
         
             /* Navigation Control
             ================================================== */ 
-       /*--  if (options.navigationControl) {
+         if (options.navigationControl) {
                 var prev = $('<a class="wmuSliderPrev">' + options.previousText + '</a>');
                 prev.click(function(e) {
                     e.preventDefault();
@@ -126,7 +126,7 @@
                 });                
                 $this.append(next);
             }
-         --*/
+         
 
             /* Pagination Control
             ================================================== */ 
